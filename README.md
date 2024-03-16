@@ -9,3 +9,6 @@
 
 # Сылка на репозиторий проекта
 https://github.com/DaneDavydov/posmotri_v_okno
+
+# Пример работы
+https://danedavydov.github.io/posmotri_v_okno/
