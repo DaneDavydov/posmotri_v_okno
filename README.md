@@ -7,7 +7,7 @@
 - CSS(Flexbox + Grid)
 - БЭМ
 
-# Сылка на репозиторий проекта
+# Ссылка на репозиторий проекта
 https://github.com/DaneDavydov/posmotri_v_okno
 
 # Пример работы
